@@ -21,6 +21,27 @@
 		00C3BBBE1888EA4D0096708D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C3BBA01888EA4D0096708D /* UIKit.framework */; };
 		00C3BBC61888EA4D0096708D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00C3BBC41888EA4D0096708D /* InfoPlist.strings */; };
 		00C3BBC81888EA4D0096708D /* Ex226_maker_tmapTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00C3BBC71888EA4D0096708D /* Ex226_maker_tmapTests.m */; };
+		00C3BBF81888EA7A0096708D /* desktop.ini in Resources */ = {isa = PBXBuildFile; fileRef = 00C3BBD21888EA7A0096708D /* desktop.ini */; };
+		00C3BBF91888EA7A0096708D /* desktop.ini in Resources */ = {isa = PBXBuildFile; fileRef = 00C3BBD51888EA7A0096708D /* desktop.ini */; };
+		00C3BBFA1888EA7A0096708D /* desktop.ini in Resources */ = {isa = PBXBuildFile; fileRef = 00C3BBEA1888EA7A0096708D /* desktop.ini */; };
+		00C3BBFB1888EA7A0096708D /* HeadingAngleSmall.png in Resources */ = {isa = PBXBuildFile; fileRef = 00C3BBEB1888EA7A0096708D /* HeadingAngleSmall.png */; };
+		00C3BBFC1888EA7A0096708D /* HeadingAngleSmall@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 00C3BBEC1888EA7A0096708D /* HeadingAngleSmall@2x.png */; };
+		00C3BBFD1888EA7A0096708D /* icon_clustering.png in Resources */ = {isa = PBXBuildFile; fileRef = 00C3BBED1888EA7A0096708D /* icon_clustering.png */; };
+		00C3BBFE1888EA7A0096708D /* icon_clustering@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 00C3BBEE1888EA7A0096708D /* icon_clustering@2x.png */; };
+		00C3BBFF1888EA7A0096708D /* mapbg_tlogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 00C3BBEF1888EA7A0096708D /* mapbg_tlogo.png */; };
+		00C3BC001888EA7A0096708D /* mapbg_tlogo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 00C3BBF01888EA7A0096708D /* mapbg_tlogo@2x.png */; };
+		00C3BC011888EA7A0096708D /* poweredby.png in Resources */ = {isa = PBXBuildFile; fileRef = 00C3BBF11888EA7A0096708D /* poweredby.png */; };
+		00C3BC021888EA7A0096708D /* poweredby@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 00C3BBF21888EA7A0096708D /* poweredby@2x.png */; };
+		00C3BC031888EA7A0096708D /* TrackingDot.png in Resources */ = {isa = PBXBuildFile; fileRef = 00C3BBF31888EA7A0096708D /* TrackingDot.png */; };
+		00C3BC041888EA7A0096708D /* TrackingDot@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 00C3BBF41888EA7A0096708D /* TrackingDot@2x.png */; };
+		00C3BC051888EA7A0096708D /* TrackingDotHalo.png in Resources */ = {isa = PBXBuildFile; fileRef = 00C3BBF51888EA7A0096708D /* TrackingDotHalo.png */; };
+		00C3BC061888EA7A0096708D /* TrackingDotHalo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 00C3BBF61888EA7A0096708D /* TrackingDotHalo@2x.png */; };
+		00C3BC071888EA7A0096708D /* libskpMap_OP-iOS7.0.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C3BBF71888EA7A0096708D /* libskpMap_OP-iOS7.0.a */; };
+		00C3BC091888EA930096708D /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C3BC081888EA930096708D /* CoreLocation.framework */; };
+		00C3BC0B1888EAA80096708D /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C3BC0A1888EAA80096708D /* QuartzCore.framework */; };
+		00C3BC0D1888F1230096708D /* ball1.png in Resources */ = {isa = PBXBuildFile; fileRef = 00C3BC0C1888F1230096708D /* ball1.png */; };
+		00C3BC0F1888F12C0096708D /* ball2.png in Resources */ = {isa = PBXBuildFile; fileRef = 00C3BC0E1888F12C0096708D /* ball2.png */; };
+		00C3BC121888F1D00096708D /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 00C3BC111888F1D00096708D /* DetailViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +74,48 @@
 		00C3BBC31888EA4D0096708D /* Ex226_maker_tmapTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Ex226_maker_tmapTests-Info.plist"; sourceTree = "<group>"; };
 		00C3BBC51888EA4D0096708D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00C3BBC71888EA4D0096708D /* Ex226_maker_tmapTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Ex226_maker_tmapTests.m; sourceTree = "<group>"; };
+		00C3BBD21888EA7A0096708D /* desktop.ini */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = desktop.ini; sourceTree = "<group>"; };
+		00C3BBD41888EA7A0096708D /* BizCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BizCategory.h; sourceTree = "<group>"; };
+		00C3BBD51888EA7A0096708D /* desktop.ini */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = desktop.ini; sourceTree = "<group>"; };
+		00C3BBD61888EA7A0096708D /* TMap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMap.h; sourceTree = "<group>"; };
+		00C3BBD71888EA7A0096708D /* TMapAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapAnnotation.h; sourceTree = "<group>"; };
+		00C3BBD81888EA7A0096708D /* TMapBaseView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapBaseView.h; sourceTree = "<group>"; };
+		00C3BBD91888EA7A0096708D /* TMapCircle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapCircle.h; sourceTree = "<group>"; };
+		00C3BBDA1888EA7A0096708D /* TMapGpsManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapGpsManager.h; sourceTree = "<group>"; };
+		00C3BBDB1888EA7A0096708D /* TMapKatec.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapKatec.h; sourceTree = "<group>"; };
+		00C3BBDC1888EA7A0096708D /* TMapLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapLayer.h; sourceTree = "<group>"; };
+		00C3BBDD1888EA7A0096708D /* TMapMarker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapMarker.h; sourceTree = "<group>"; };
+		00C3BBDE1888EA7A0096708D /* TMapMarkerItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapMarkerItem.h; sourceTree = "<group>"; };
+		00C3BBDF1888EA7A0096708D /* TMapMarkerItem2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapMarkerItem2.h; sourceTree = "<group>"; };
+		00C3BBE01888EA7A0096708D /* TMapObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapObject.h; sourceTree = "<group>"; };
+		00C3BBE11888EA7A0096708D /* TMapPathData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapPathData.h; sourceTree = "<group>"; };
+		00C3BBE21888EA7A0096708D /* TMapPOIItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapPOIItem.h; sourceTree = "<group>"; };
+		00C3BBE31888EA7A0096708D /* TMapPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapPoint.h; sourceTree = "<group>"; };
+		00C3BBE41888EA7A0096708D /* TMapPolygon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapPolygon.h; sourceTree = "<group>"; };
+		00C3BBE51888EA7A0096708D /* TMapPolyLine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapPolyLine.h; sourceTree = "<group>"; };
+		00C3BBE61888EA7A0096708D /* TMapTapi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapTapi.h; sourceTree = "<group>"; };
+		00C3BBE71888EA7A0096708D /* TMapType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapType.h; sourceTree = "<group>"; };
+		00C3BBE81888EA7A0096708D /* TMapView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapView.h; sourceTree = "<group>"; };
+		00C3BBEA1888EA7A0096708D /* desktop.ini */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = desktop.ini; sourceTree = "<group>"; };
+		00C3BBEB1888EA7A0096708D /* HeadingAngleSmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HeadingAngleSmall.png; sourceTree = "<group>"; };
+		00C3BBEC1888EA7A0096708D /* HeadingAngleSmall@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "HeadingAngleSmall@2x.png"; sourceTree = "<group>"; };
+		00C3BBED1888EA7A0096708D /* icon_clustering.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_clustering.png; sourceTree = "<group>"; };
+		00C3BBEE1888EA7A0096708D /* icon_clustering@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_clustering@2x.png"; sourceTree = "<group>"; };
+		00C3BBEF1888EA7A0096708D /* mapbg_tlogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mapbg_tlogo.png; sourceTree = "<group>"; };
+		00C3BBF01888EA7A0096708D /* mapbg_tlogo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mapbg_tlogo@2x.png"; sourceTree = "<group>"; };
+		00C3BBF11888EA7A0096708D /* poweredby.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poweredby.png; sourceTree = "<group>"; };
+		00C3BBF21888EA7A0096708D /* poweredby@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "poweredby@2x.png"; sourceTree = "<group>"; };
+		00C3BBF31888EA7A0096708D /* TrackingDot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TrackingDot.png; sourceTree = "<group>"; };
+		00C3BBF41888EA7A0096708D /* TrackingDot@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TrackingDot@2x.png"; sourceTree = "<group>"; };
+		00C3BBF51888EA7A0096708D /* TrackingDotHalo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TrackingDotHalo.png; sourceTree = "<group>"; };
+		00C3BBF61888EA7A0096708D /* TrackingDotHalo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TrackingDotHalo@2x.png"; sourceTree = "<group>"; };
+		00C3BBF71888EA7A0096708D /* libskpMap_OP-iOS7.0.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "libskpMap_OP-iOS7.0.a"; sourceTree = "<group>"; };
+		00C3BC081888EA930096708D /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		00C3BC0A1888EAA80096708D /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		00C3BC0C1888F1230096708D /* ball1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball1.png; sourceTree = "<group>"; };
+		00C3BC0E1888F12C0096708D /* ball2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball2.png; sourceTree = "<group>"; };
+		00C3BC101888F1D00096708D /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		00C3BC111888F1D00096708D /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +123,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00C3BC0B1888EAA80096708D /* QuartzCore.framework in Frameworks */,
+				00C3BC091888EA930096708D /* CoreLocation.framework in Frameworks */,
 				00C3BB9F1888EA4D0096708D /* CoreGraphics.framework in Frameworks */,
 				00C3BBA11888EA4D0096708D /* UIKit.framework in Frameworks */,
+				00C3BC071888EA7A0096708D /* libskpMap_OP-iOS7.0.a in Frameworks */,
 				00C3BB9D1888EA4D0096708D /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -82,6 +148,7 @@
 		00C3BB901888EA4D0096708D = {
 			isa = PBXGroup;
 			children = (
+				00C3BBD11888EA7A0096708D /* lib */,
 				00C3BBA21888EA4D0096708D /* Ex226_maker_tmap */,
 				00C3BBC11888EA4D0096708D /* Ex226_maker_tmapTests */,
 				00C3BB9B1888EA4D0096708D /* Frameworks */,
@@ -101,6 +168,8 @@
 		00C3BB9B1888EA4D0096708D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				00C3BC0A1888EAA80096708D /* QuartzCore.framework */,
+				00C3BC081888EA930096708D /* CoreLocation.framework */,
 				00C3BB9C1888EA4D0096708D /* Foundation.framework */,
 				00C3BB9E1888EA4D0096708D /* CoreGraphics.framework */,
 				00C3BBA01888EA4D0096708D /* UIKit.framework */,
@@ -112,6 +181,8 @@
 		00C3BBA21888EA4D0096708D /* Ex226_maker_tmap */ = {
 			isa = PBXGroup;
 			children = (
+				00C3BC0E1888F12C0096708D /* ball2.png */,
+				00C3BC0C1888F1230096708D /* ball1.png */,
 				00C3BBAB1888EA4D0096708D /* AppDelegate.h */,
 				00C3BBAC1888EA4D0096708D /* AppDelegate.m */,
 				00C3BBAE1888EA4D0096708D /* Main.storyboard */,
@@ -119,6 +190,8 @@
 				00C3BBB21888EA4D0096708D /* ViewController.m */,
 				00C3BBB41888EA4D0096708D /* Images.xcassets */,
 				00C3BBA31888EA4D0096708D /* Supporting Files */,
+				00C3BC101888F1D00096708D /* DetailViewController.h */,
+				00C3BC111888F1D00096708D /* DetailViewController.m */,
 			);
 			path = Ex226_maker_tmap;
 			sourceTree = "<group>";
@@ -150,6 +223,65 @@
 				00C3BBC41888EA4D0096708D /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		00C3BBD11888EA7A0096708D /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				00C3BBD21888EA7A0096708D /* desktop.ini */,
+				00C3BBD31888EA7A0096708D /* Headers */,
+				00C3BBE91888EA7A0096708D /* Images */,
+				00C3BBF71888EA7A0096708D /* libskpMap_OP-iOS7.0.a */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		00C3BBD31888EA7A0096708D /* Headers */ = {
+			isa = PBXGroup;
+			children = (
+				00C3BBD41888EA7A0096708D /* BizCategory.h */,
+				00C3BBD51888EA7A0096708D /* desktop.ini */,
+				00C3BBD61888EA7A0096708D /* TMap.h */,
+				00C3BBD71888EA7A0096708D /* TMapAnnotation.h */,
+				00C3BBD81888EA7A0096708D /* TMapBaseView.h */,
+				00C3BBD91888EA7A0096708D /* TMapCircle.h */,
+				00C3BBDA1888EA7A0096708D /* TMapGpsManager.h */,
+				00C3BBDB1888EA7A0096708D /* TMapKatec.h */,
+				00C3BBDC1888EA7A0096708D /* TMapLayer.h */,
+				00C3BBDD1888EA7A0096708D /* TMapMarker.h */,
+				00C3BBDE1888EA7A0096708D /* TMapMarkerItem.h */,
+				00C3BBDF1888EA7A0096708D /* TMapMarkerItem2.h */,
+				00C3BBE01888EA7A0096708D /* TMapObject.h */,
+				00C3BBE11888EA7A0096708D /* TMapPathData.h */,
+				00C3BBE21888EA7A0096708D /* TMapPOIItem.h */,
+				00C3BBE31888EA7A0096708D /* TMapPoint.h */,
+				00C3BBE41888EA7A0096708D /* TMapPolygon.h */,
+				00C3BBE51888EA7A0096708D /* TMapPolyLine.h */,
+				00C3BBE61888EA7A0096708D /* TMapTapi.h */,
+				00C3BBE71888EA7A0096708D /* TMapType.h */,
+				00C3BBE81888EA7A0096708D /* TMapView.h */,
+			);
+			path = Headers;
+			sourceTree = "<group>";
+		};
+		00C3BBE91888EA7A0096708D /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				00C3BBEA1888EA7A0096708D /* desktop.ini */,
+				00C3BBEB1888EA7A0096708D /* HeadingAngleSmall.png */,
+				00C3BBEC1888EA7A0096708D /* HeadingAngleSmall@2x.png */,
+				00C3BBED1888EA7A0096708D /* icon_clustering.png */,
+				00C3BBEE1888EA7A0096708D /* icon_clustering@2x.png */,
+				00C3BBEF1888EA7A0096708D /* mapbg_tlogo.png */,
+				00C3BBF01888EA7A0096708D /* mapbg_tlogo@2x.png */,
+				00C3BBF11888EA7A0096708D /* poweredby.png */,
+				00C3BBF21888EA7A0096708D /* poweredby@2x.png */,
+				00C3BBF31888EA7A0096708D /* TrackingDot.png */,
+				00C3BBF41888EA7A0096708D /* TrackingDot@2x.png */,
+				00C3BBF51888EA7A0096708D /* TrackingDotHalo.png */,
+				00C3BBF61888EA7A0096708D /* TrackingDotHalo@2x.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,9 +360,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00C3BBFD1888EA7A0096708D /* icon_clustering.png in Resources */,
+				00C3BC061888EA7A0096708D /* TrackingDotHalo@2x.png in Resources */,
+				00C3BBF91888EA7A0096708D /* desktop.ini in Resources */,
+				00C3BC051888EA7A0096708D /* TrackingDotHalo.png in Resources */,
+				00C3BBFA1888EA7A0096708D /* desktop.ini in Resources */,
+				00C3BBFB1888EA7A0096708D /* HeadingAngleSmall.png in Resources */,
 				00C3BBB51888EA4D0096708D /* Images.xcassets in Resources */,
+				00C3BBFE1888EA7A0096708D /* icon_clustering@2x.png in Resources */,
+				00C3BC001888EA7A0096708D /* mapbg_tlogo@2x.png in Resources */,
+				00C3BC0F1888F12C0096708D /* ball2.png in Resources */,
 				00C3BBA71888EA4D0096708D /* InfoPlist.strings in Resources */,
+				00C3BBFF1888EA7A0096708D /* mapbg_tlogo.png in Resources */,
+				00C3BC0D1888F1230096708D /* ball1.png in Resources */,
+				00C3BC041888EA7A0096708D /* TrackingDot@2x.png in Resources */,
+				00C3BC031888EA7A0096708D /* TrackingDot.png in Resources */,
+				00C3BBFC1888EA7A0096708D /* HeadingAngleSmall@2x.png in Resources */,
+				00C3BC021888EA7A0096708D /* poweredby@2x.png in Resources */,
+				00C3BC011888EA7A0096708D /* poweredby.png in Resources */,
 				00C3BBB01888EA4D0096708D /* Main.storyboard in Resources */,
+				00C3BBF81888EA7A0096708D /* desktop.ini in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +401,7 @@
 				00C3BBB31888EA4D0096708D /* ViewController.m in Sources */,
 				00C3BBAD1888EA4D0096708D /* AppDelegate.m in Sources */,
 				00C3BBA91888EA4D0096708D /* main.m in Sources */,
+				00C3BC121888F1D00096708D /* DetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -381,6 +531,11 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Ex226_maker_tmap/Ex226_maker_tmap-Prefix.pch";
 				INFOPLIST_FILE = "Ex226_maker_tmap/Ex226_maker_tmap-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"/Users/sdt-1/Documents/Projects/Ex226_maker_tmap/lib",
+					"/Users/sdt-1/Documents/Projects/TmapTest/lib",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -394,6 +549,11 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Ex226_maker_tmap/Ex226_maker_tmap-Prefix.pch";
 				INFOPLIST_FILE = "Ex226_maker_tmap/Ex226_maker_tmap-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"/Users/sdt-1/Documents/Projects/Ex226_maker_tmap/lib",
+					"/Users/sdt-1/Documents/Projects/TmapTest/lib",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
