@@ -8,6 +8,6 @@
 
 #import "ViewController.h"
 
-@interface DetailViewController : ViewController
+@interface DetailViewController : UIViewController
 @property (strong,nonatomic) NSString *urlStr;
 @end

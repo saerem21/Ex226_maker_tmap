@@ -33,7 +33,7 @@
     if([@"T-ACADEMY" isEqualToString:[markerItem getID]]){
         // 넘어가는 코드
         DetailViewController *detailVC = [self.storyboard instantiateViewControllerWithIdentifier:@"DetailVC"];
-        detailVC.urlStr = @"http://tacademy.co.kr";
+        detailVC.urlStr = @"http://www.tacademy.co.kr";
         [self presentViewController:detailVC animated:YES completion:nil];
     }
 }
@@ -62,7 +62,7 @@
     [polygon setPolygonAlpha:0];
     [polygon setLineWidth:8.0];
     
-    for (int i = 5; i < 5; i++) {
+    for (int i = 0; i < 5; i++) {
         [polygon addPolygonPoint:[TMapPoint mapPointWithCoordinate:coord[i]]];
     }
     
